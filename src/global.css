@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&display=swap");
+@font-face {
+  font-family: "Kelson Sans";
+  src: url("/public/Kelson Sans Regular.otf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Kelson Sans";
+  src: url("/public/Kelson Sans Bold.otf");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Intruding Cat";
+  src: url("/public/IntrudingCat.otf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Arial";
+  src: url("/public/Arial.ttf");
+  font-weight: 400;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  @apply leading-[normal] m-0;
+}
+*,
+::before,
+::after {
+  border-width: 0;
+}
