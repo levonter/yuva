@@ -1,5 +1,5 @@
 
-  # YUVA - Timber Shelter for Earthquake Survivors in Turkey
+  # YUVA - Timber Shelter Project
 
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
